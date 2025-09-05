@@ -1,3 +1,5 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/hyebim"/>
-</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/751699200497787312/draw"
+      />
+    </a>
